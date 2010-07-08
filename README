@@ -1,6 +1,6 @@
 == Rails 2.3.8 GMail SMTP Example
 
-This is an example app on getting a Rails 2.3.8 app working on Heroku with GMail SMTP.
+This is an example app on getting a Rails 2.3.8 app working on Heroku's bamboo ree 1.8.7 stack with GMail SMTP.
 
 === Instructions
 
